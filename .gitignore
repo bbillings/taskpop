@@ -1,4 +1,4 @@
 .idea/
-taskpop.iml
+*.iml
 *.iws
 target/
